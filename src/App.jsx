@@ -6,7 +6,7 @@ import MovieCard from './components/MovieCard'
 import Home from './pages/Home'
 import {Routes, Route} from "react-router-dom"
 import { MovieProvider } from './contexts/MovieContext'
-import Favorites from './pages/favorites'
+import Favorites from './pages/Favorites'
 import NavBar from './components/NavBar'
 
 function App() {
